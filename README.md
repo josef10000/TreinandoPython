@@ -20,7 +20,7 @@ Os arquivos serão agrupados em pastas com base em suas extensões. Por exemplo,
 
 Certifique-se de ter as permissões necessárias para criar pastas e mover arquivos nas pastas de downloads e área de trabalho.
 
-Observações
+### Observações
 O script ignorará o próprio arquivo organizer.py ao organizar os arquivos.
 
 Os arquivos serão agrupados em pastas com base em suas extensões. Por exemplo, todos os arquivos com a extensão .pdf serão movidos para a pasta pdf, os arquivos com a extensão .jpg serão movidos para a pasta jpg, e assim por diante.
